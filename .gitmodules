@@ -1,0 +1,3 @@
+[submodule "travel-recsys-model"]
+	path = travel-recsys-model
+	url = https://github.com/KrishnanditoLksn/travel-recsys-model.git
