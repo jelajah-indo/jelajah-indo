@@ -4,3 +4,6 @@
 [submodule "jelajah_indo_be"]
 	path = jelajah_indo_be
 	url = https://github.com/KrishnanditoLksn/jelajah_indo_be.git
+[submodule "Rekomendasi_Destinasi_Wisatawan"]
+	path = Rekomendasi_Destinasi_Wisatawan
+	url = https://github.com/Mdayyu/Rekomendasi_Destinasi_Wisatawan.git
