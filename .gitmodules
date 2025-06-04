@@ -1,3 +1,6 @@
 [submodule "travel-recsys-model"]
 	path = travel-recsys-model
 	url = https://github.com/KrishnanditoLksn/travel-recsys-model.git
+[submodule "jelajah_indo_be"]
+	path = jelajah_indo_be
+	url = https://github.com/KrishnanditoLksn/jelajah_indo_be.git
